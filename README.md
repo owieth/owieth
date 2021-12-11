@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Olivier</h1>
 <br>
 
-<img align="right"
+<!-- <img align="right"
     src="https://github-readme-stats.vercel.app/api?username=owieth&show_icons=true&locale=en&theme=radical&hide_border=true" />
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=owieth&locale=en&theme=radical&hide_border=true" />
+-->
+
+<img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=owieth&show_icons=true&locale=en&theme=swift&hide_border=true" />
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=owieth&locale=en&theme=swift&hide_border=true" />
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owieth&label=%20👀&color=grey&style=flat" /></p>
@@ -85,5 +91,5 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=owieth&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=owieth&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
 </p>
