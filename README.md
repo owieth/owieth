@@ -23,8 +23,7 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api/top-langs?username=owieth&locale=en&theme=radical&hide_border=true" />
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owieth&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owieth&label=%20👀&color=grey&style=flat" /></p>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -86,6 +85,5 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=owieth&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=owieth&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
 </p>
