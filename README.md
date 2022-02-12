@@ -46,36 +46,28 @@
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/Intellij -F7DF1E?style=for-the-badge&logo=intellijidea&logoColor=black" />
     <img src="https://img.shields.io/badge/Brave-DD0031?style=for-the-badge&logo=brave&logoColor=black" />
+    <img src="https://img.shields.io/badge/Figma-02569B?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pitch-43853D?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer-404D59?style=for-the-badge&logo=framer&logoColor=whote" />
 </p>
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=dev.to&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hashnode-0D1117?style=for-the-badge&logo=hashnode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white" />
-    
-    <a href="https://dev.to/owieth" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/14147111/oli" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            height="30" width="40" /></a>
-    <a href="https://dribbble.com/olivierwinkler" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-            height="30" width="40" /></a>
-    <a href="https://www.behance.net/ortexhd" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-            height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/olivier-winkler/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            height="30" width="40" /></a>
+<p align="center">
+    <a href="https://github.com/owieth" target="blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://dev.to/owieth" target="blank"><img src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+    <a href="https://hashnode.com/owieth" target="blank"><img src="https://img.shields.io/badge/Hashnode-0D1117?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+    <a href="https://medium.com/owieth" target="blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/14147111/oli" target="blank"><img src="https://img.shields.io/badge/Stackoverflow-0D1117?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://dribbble.com/olivierwinkler" target="blank"><img src="https://img.shields.io/badge/Dribbble-0D1117?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+    <a href="https://www.behance.net/ortexhd" target="blank"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" /></a>
+     <a href="https://www.linkedin.com/in/olivier-winkler" target="blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h1></h1>
 <br>
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=owieth&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FFFFFF&background=0D1117&dates=FFFFFF&stroke=FFFFFF00&fire=FCFF00&currStreakLabel=FFFFFF">
 </p>
