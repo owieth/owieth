@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Olivier</h1>
 <br>
     
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owieth&title_color=fff&text_color=fff&bg_color=0D1117&hide_border=true" height="100%" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owieth&title_color=fff&text_color=fff&bg_color=0D1117&hide_border=true" height="250px" />
     <img src="https://github-readme-stats.vercel.app/api?username=owieth&title_color=fff&text_color=fff&icon_color=FCFF00&bg_color=0D1117&show_icons=true&hide_border=true" height="250px" />
 </p>
 
