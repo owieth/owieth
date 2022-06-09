@@ -46,7 +46,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/Intellij -F7DF1E?style=for-the-badge&logo=intellijidea&logoColor=black" />
-    <img src="https://img.shields.io/badge/Brave-DD0031?style=for-the-badge&logo=brave&logoColor=black" />
+    <img src="https://img.shields.io/badge/Brave-DD0031?style=for-the-badge&logo=brave&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-02569B?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Pitch-43853D?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
     <img src="https://img.shields.io/badge/Framer-404D59?style=for-the-badge&logo=framer&logoColor=whote" />
