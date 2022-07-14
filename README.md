@@ -10,7 +10,8 @@
     <img src="https://komarev.com/ghpvc/?username=owieth&label=%20👀&color=grey&style=flat" />
     <img src="https://img.shields.io/github/followers/owieth.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
-<hr>
+
+<h1></h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -63,7 +64,7 @@
 <br>
 
 <h3 align="left">Connect with me: </h3>
-<a href="https://owieth.bio.link/" target="blank">
+<a href="https://owieth.bio.link/" target="_blank">
 <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&color=black" />
 </a>
 
